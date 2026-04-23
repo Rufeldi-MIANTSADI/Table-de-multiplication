@@ -1,0 +1,14 @@
+C:\Users\HP\Downloads\WORSPACE\Table-de-multiplication\bin\Debug\net10.0\Table-de-multiplication.exe
+C:\Users\HP\Downloads\WORSPACE\Table-de-multiplication\bin\Debug\net10.0\Table-de-multiplication.deps.json
+C:\Users\HP\Downloads\WORSPACE\Table-de-multiplication\bin\Debug\net10.0\Table-de-multiplication.runtimeconfig.json
+C:\Users\HP\Downloads\WORSPACE\Table-de-multiplication\bin\Debug\net10.0\Table-de-multiplication.dll
+C:\Users\HP\Downloads\WORSPACE\Table-de-multiplication\bin\Debug\net10.0\Table-de-multiplication.pdb
+C:\Users\HP\Downloads\WORSPACE\Table-de-multiplication\obj\Debug\net10.0\Table-de-multiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\WORSPACE\Table-de-multiplication\obj\Debug\net10.0\Table-de-multiplication.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\WORSPACE\Table-de-multiplication\obj\Debug\net10.0\Table-de-multiplication.AssemblyInfo.cs
+C:\Users\HP\Downloads\WORSPACE\Table-de-multiplication\obj\Debug\net10.0\Table-de-multiplication.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\WORSPACE\Table-de-multiplication\obj\Debug\net10.0\Table-de-multiplication.dll
+C:\Users\HP\Downloads\WORSPACE\Table-de-multiplication\obj\Debug\net10.0\refint\Table-de-multiplication.dll
+C:\Users\HP\Downloads\WORSPACE\Table-de-multiplication\obj\Debug\net10.0\Table-de-multiplication.pdb
+C:\Users\HP\Downloads\WORSPACE\Table-de-multiplication\obj\Debug\net10.0\Table-de-multiplication.genruntimeconfig.cache
+C:\Users\HP\Downloads\WORSPACE\Table-de-multiplication\obj\Debug\net10.0\ref\Table-de-multiplication.dll
